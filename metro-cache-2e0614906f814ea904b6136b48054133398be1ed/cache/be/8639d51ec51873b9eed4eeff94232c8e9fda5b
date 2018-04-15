@@ -1,0 +1,11 @@
+__d(function (global, _require, module, exports, _dependencyMap) {
+	module.exports = _require(_dependencyMap[0], "react-native/Libraries/Image/AssetRegistry").registerAsset({
+		"__packager_asset": true,
+		"httpServerLocation": "/assets/static_assets",
+		"scales": [1],
+		"hash": "78183d697f01c799f60ee7f28ea0b288",
+		"name": "bruh",
+		"type": "mp3",
+		"fileHashes": ["78183d697f01c799f60ee7f28ea0b288"]
+	});
+});

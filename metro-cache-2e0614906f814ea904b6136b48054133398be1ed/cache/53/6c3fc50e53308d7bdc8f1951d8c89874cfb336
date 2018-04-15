@@ -1,0 +1,13 @@
+__d(function (global, _require, module, exports, _dependencyMap) {
+  module.exports = _require(_dependencyMap[0], "react-native/Libraries/Image/AssetRegistry").registerAsset({
+    "__packager_asset": true,
+    "httpServerLocation": "/assets/static_assets",
+    "width": 480,
+    "height": 200,
+    "scales": [1],
+    "hash": "880f8098dca0b8c1699265955fa976fa",
+    "name": "shake",
+    "type": "gif",
+    "fileHashes": ["880f8098dca0b8c1699265955fa976fa"]
+  });
+});
