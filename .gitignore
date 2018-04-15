@@ -3,6 +3,9 @@
 # expo
 .expo/
 
+# cache
+.metro-cache-*
+
 # dependencies
 /node_modules
 
